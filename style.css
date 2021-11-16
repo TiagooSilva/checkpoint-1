@@ -1,0 +1,103 @@
+body{
+    font-family: 'Tenor Sans', sans-serif;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pa%C3%A7o_Municipal_De_Santo_Andr%C3%A9.jpg/1280px-Pa%C3%A7o_Municipal_De_Santo_Andr%C3%A9.jpg);
+}
+
+header{
+    color: rgb(254, 254, 254);
+    background-color: black;
+    padding: 10px 20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.titulo{
+    margin-left: 245px;
+}
+.subtitulo{
+    color: black;
+    padding: 10px 20px ;
+    font-size: 25px;
+    width: 123px;
+    margin-left: 381px;
+    position: absolute;
+    top: -12px;
+    left: 136px;
+    background-color: rgb(141, 146, 64);
+    border-radius: 4px;
+}
+    
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0px 5px;
+    text-align: justify;
+    position: absolute;
+    width: 1000px;
+    left: 50px;
+    top: 64px;
+    background-color: black;
+    color: rgb(250, 250, 250);
+    font-size: 18px;
+    z-index: 10;
+}
+
+strong{
+    font-weight: bolder;
+    color: rgb(97, 250, 8);
+}
+
+.video{
+    position: absolute;
+    top: 650px;
+
+}
+
+.curiosidades{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    left: 50px;
+    top: 1400px;
+    height: 10px;
+    font-size: 20px;
+    background-color: rgb(143, 141, 51);
+    color: rgb(241, 237, 237);
+
+}
+
+.lista-curiosidades{
+    margin-left: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    left: 50px;
+    top: 1500px;
+    font-size: 20px;
+    background-color: rgb(95, 167, 62);
+    color: rgb(15, 15, 15);
+
+}
+
+li{
+    list-style-type: circle;
+}
+
+.instagram{
+    position: absolute;
+    top: 1800px;
+    left: 100px;
+    border-radius: 30px;
+}
+
+.youtube{
+    position: absolute;
+    top: 1800px;
+    left: 250px;
+    border-radius: 30px;
+}
